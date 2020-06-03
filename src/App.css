@@ -1,0 +1,13 @@
+.completed {
+  color: orangered;
+  margin-right: 20px;
+}
+
+.todo {
+  color: black;
+}
+
+.taskList {
+  display: flex;
+  align-items: center;
+}
